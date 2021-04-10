@@ -1,5 +1,5 @@
 function scroll_to(get_id) {
-  // Thanks Bowser65 <3
+
   let id = get_id.replace("#", "")
   const el = document.getElementById(id)
   el.scrollIntoView({behavior: "smooth", inline: "nearest"})
@@ -7,7 +7,7 @@ function scroll_to(get_id) {
 }
 
 window.addEventListener('scroll', function() {
-  // Hide arrow button when scrolling down the page
+
   var scrollPosition = window.scrollY
   var logoContainer = document.getElementsByClassName('arrow')[0]
   if (scrollPosition >= 100) logoContainer.classList.add('arrow--scrolled')
@@ -15,7 +15,7 @@ window.addEventListener('scroll', function() {
 })
 
 document.addEventListener('DOMContentLoaded', function() {
-  // Load the time since I coded
+
   var years_since = new Date("2015-08-01").getTime()
   var today = new Date().getTime()
 

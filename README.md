@@ -1,6 +1,7 @@
-# erensahinoz.github.io
-**Benim sitemdir, normal url: https://www.erensahinoz.online**
+# tuxty.github.io
+
+**Tuxty** isimli geliştiricinin kişisel websitesinin kaynak kodlarıdır.
 
 # Bigilendirme
-**Html ve js kodları bana aittir ama modesta.css AlexFlipnote'a aittir.** <br>
+**modesta.css adlı css modeli, AlexFlipnote'a aitir.** <br>
 **Yani: https://github.com/alexflipnote**

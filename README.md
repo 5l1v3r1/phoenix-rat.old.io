@@ -3,5 +3,5 @@
 **Tuxty** isimli geliştiricinin kişisel websitesinin kaynak kodlarıdır.
 
 # Bigilendirme
-**modesta.css adlı css modeli, AlexFlipnote'a aitir.** <br>
+**Sitenin iskeleti AlexFlipnote'a aittir.** <br>
 **Yani: https://github.com/alexflipnote**

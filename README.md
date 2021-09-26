@@ -1,6 +1,6 @@
-# tuxty.github.io
+# phoenix-rat.github.io
 
-**Tuxty** isimli geliştiricinin kişisel websitesinin kaynak kodlarıdır.
+**Phoenix-rat** isimli geliştiricinin kişisel websitesinin kaynak kodlarıdır.
 
 # Bigilendirme
 **Sitenin iskeleti AlexFlipnote'a aittir.** <br>
